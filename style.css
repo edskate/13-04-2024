@@ -1,0 +1,28 @@
+
+#container {
+    display: grid;
+    display: inline-block;
+    grid-auto-columns: 1fr 1fr 4fr ;
+    gap: -1%;
+    /*grid: repeat(2, 60px) / auto-flow 80px;*/
+  }
+  
+  #container > div {
+    background-color: #8ca0ff;
+    width: 350px;
+    height: 150px;
+    margin: 10%;
+    font-size: 15px;
+    text-align: center;
+    box-shadow: 10px 10px 10px ;
+    border-radius: 10px 20px 20px ;
+    border: 3px solid #80ffff;
+  }
+  p{
+    color: blue;
+    text-shadow:2px 2px 3px  rgb(204, 186, 25), 2px 2px 2px   #8838, 4px 4px 4px rgba(147, 209, 3, 0.533);
+  }
+  h2{
+    color: chartreuse;
+    text-shadow: -1px 1px 1px #000;
+  }
