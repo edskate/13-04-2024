@@ -26,3 +26,9 @@
     color: chartreuse;
     text-shadow: -1px 1px 1px #000;
   }
+  .item{
+    border: 2px solid;
+    text-align: center;
+  
+
+  }

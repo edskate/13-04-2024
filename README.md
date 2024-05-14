@@ -1,2 +1,16 @@
 # 13-04-2024
- 
+- to teach ensinar
+- (a) school uma scola
+- (a) student estudante
+- to study estudar
+- I teach chinese
+- (a) achool
+- to teach
+- I love school
+- they study languages together
+- to teach
+- I teach chinês
+- student
+- I love school
+- they study languages together
+- I teach chinese
